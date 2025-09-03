@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "253518702648",
+    "firebase_url": "https://get-good-af379-default-rtdb.firebaseio.com",
+    "project_id": "get-good-af379",
+    "storage_bucket": "get-good-af379.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253518702648:android:3074f4d9e4800d5056decd",
+        "android_client_info": {
+          "package_name": "shop.vangma1987.GoodGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2SBW6ZSHai7a6zZUUTceNw2M6vSpPmyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
