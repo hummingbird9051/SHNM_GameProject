@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "\uD648\uD654\uBA74 \uC560\uB2C8\uBA54\uC774\uC158"
+  m_Name: HomeAnim
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
