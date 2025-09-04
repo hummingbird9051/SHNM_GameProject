@@ -275,6 +275,12 @@ public class FirebaseManager : SingletonBase<FirebaseManager>
                     case AuthError.WeakPassword:
                         actionMessageResult = "비밀번호는 6자리 이상이어야 합니다.";
                         break;
+                    case AuthError.MissingEmail:
+                        actionMessageResult = "이메일을 입력해주세요.";
+                        break;
+                    case AuthError.MissingPassword:
+                        actionMessageResult = "비밀번호를 입력해주세요.";
+                        break;
                     default:
                         actionMessageResult = "알 수 없는 오류가 발생했습니다.";
                         break;
